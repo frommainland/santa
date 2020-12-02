@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/santa/static/css/main.d057d5e5.chunk.css",
+    "main.js": "/santa/static/js/main.26fe5543.chunk.js",
+    "main.js.map": "/santa/static/js/main.26fe5543.chunk.js.map",
+    "runtime-main.js": "/santa/static/js/runtime-main.1e4d1df2.js",
+    "runtime-main.js.map": "/santa/static/js/runtime-main.1e4d1df2.js.map",
+    "static/js/2.898f7e6c.chunk.js": "/santa/static/js/2.898f7e6c.chunk.js",
+    "static/js/2.898f7e6c.chunk.js.map": "/santa/static/js/2.898f7e6c.chunk.js.map",
+    "static/js/3.b5452fca.chunk.js": "/santa/static/js/3.b5452fca.chunk.js",
+    "static/js/3.b5452fca.chunk.js.map": "/santa/static/js/3.b5452fca.chunk.js.map",
+    "index.html": "/santa/index.html",
+    "static/css/main.d057d5e5.chunk.css.map": "/santa/static/css/main.d057d5e5.chunk.css.map",
+    "static/js/2.898f7e6c.chunk.js.LICENSE.txt": "/santa/static/js/2.898f7e6c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/santa/static/media/Light.879dc422.ttf",
+    "static/media/flower.adf0ea50.png": "/santa/static/media/flower.adf0ea50.png",
+    "static/media/logo.6ce24c58.svg": "/santa/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e4d1df2.js",
+    "static/js/2.898f7e6c.chunk.js",
+    "static/css/main.d057d5e5.chunk.css",
+    "static/js/main.26fe5543.chunk.js"
+  ]
+}
